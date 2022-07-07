@@ -1,0 +1,20 @@
+{
+    "name": "codeage/multithreading",
+    "description": "Create multiple processes working in the background via shell_exec",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codeage\\Multithreading\\": "src/"
+        }
+    },  
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pawel Sinica",
+            "email": "pawel.codeage@gmail.com"
+        }
+    ]
+}
